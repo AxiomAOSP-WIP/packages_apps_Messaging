@@ -59,6 +59,7 @@ android_app {
 
     static_libs: [
         "androidx.appcompat_appcompat",
+        "androidx-constraintlayout_constraintlayout",
         "androidx.collection_collection",
         "androidx.core_core",
         "androidx.fragment_fragment",
@@ -66,6 +67,7 @@ android_app {
         "androidx.legacy_legacy-support-core-utils",
         "androidx.legacy_legacy-support-core-ui",
         "androidx.palette_palette",
+        "androidx.preference_preference",
         "androidx.recyclerview_recyclerview",
         "androidx.viewpager_viewpager",
         "androidx.legacy_legacy-support-v13",
